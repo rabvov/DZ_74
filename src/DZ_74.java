@@ -22,6 +22,6 @@ public class DZ_74 {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
-
+scanner.close();
     }
 }
